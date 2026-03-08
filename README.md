@@ -1,3 +1,5 @@
+This Macropad is a 11 key macropad with a rotary encoder, and uses ??K firmware
+
 A screenshot of your overall hackpad
 <img width="606" height="665" alt="Screenshot 2026-03-08 105949" src="https://github.com/user-attachments/assets/fdc1ffed-9a03-453d-a3d6-3dbd73baa62d" />
 
@@ -12,8 +14,6 @@ A screenshot of your PCB
 
 A screenshot of your case and how it'll fit together
 
-
-
 1 x Seeed Studio XIAO
 
 11 x 1N4148 Diodes
@@ -27,3 +27,5 @@ A screenshot of your case and how it'll fit together
 1 x Case
 
 1 x PCB
+
+
