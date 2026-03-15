@@ -14,18 +14,22 @@ A screenshot of your PCB
 
 A screenshot of your case and how it'll fit together
 
-1 x Seeed Studio XIAO
+1 unsoldered Seeed XIAO RP2040
 
-11 x 1N4148 Diodes
+11 x through-hole 1N4148 Diodes
 
-11 x MX-Style Switches
+11 x MX-Style switches
 
 1 x EC11 Rotary Encoder
 
-11 x Keycaps
+11 x white blank DSA keycaps
 
 1 x Case
 
 1 x PCB
+
+4x M3x16mm screws
+
+4x M3x5mx4mm heatset inserts
 
 
