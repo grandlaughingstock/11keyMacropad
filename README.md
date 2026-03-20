@@ -9,10 +9,9 @@ A screenshot of your schematic
 A screenshot of your PCB
 <img width="1128" height="848" alt="Screenshot 2026-03-08 105614" src="https://github.com/user-attachments/assets/f3bbe69e-ecad-4d44-aa2f-4b7a5fff913c" />
 
-
-
-
 A screenshot of your case and how it'll fit together
+<img width="617" height="752" alt="Screenshot 2026-03-20 214945" src="https://github.com/user-attachments/assets/36d44134-79aa-44cb-a7e7-6226537045d9" />
+
 
 1 unsoldered Seeed XIAO RP2040
 
